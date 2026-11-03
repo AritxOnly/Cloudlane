@@ -1,0 +1,13 @@
+{
+  "title": "Cloudlane 照片同步与清理",
+  "kind": "logic",
+  "reference_platform": "android",
+  "platforms": [
+    "android"
+  ],
+  "created": {
+    "date": "2026-11-03",
+    "source": "created",
+    "evidence": "用户授权创建 Cloudlane 工程"
+  }
+}

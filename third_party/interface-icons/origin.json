@@ -1,0 +1,26 @@
+[
+  {
+    "resource": "hmi_cloud",
+    "upstream": "CloudFill",
+    "family": "miuix-glass",
+    "sha256": "88bbe9a662d9e44d8efea8c9eb405ffeef7861940e1443574005238d55d903d5"
+  },
+  {
+    "resource": "hmi_delete",
+    "upstream": "Delete",
+    "family": "miuix-glass",
+    "sha256": "1220a45639af659d6203638dea001481fd2a875568908271aa27a165ccb54ddf"
+  },
+  {
+    "resource": "hmi_settings",
+    "upstream": "Settings",
+    "family": "miuix-glass",
+    "sha256": "ae950fb1df38bc42757957e7eb3bfe4af7a3f0a7d1aaee41d46df2e527994c91"
+  },
+  {
+    "resource": "hmi_autorenew",
+    "upstream": "Refresh",
+    "family": "miuix-glass",
+    "sha256": "698677be05503d2f68bed1755bba33da29cb4e7bc48e07f018b0efff83ef3a17"
+  }
+]
